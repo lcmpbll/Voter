@@ -6,10 +6,10 @@ $(document).ready(function() {
 	
 	
 	if (vote === "over18") {
-		$(".voter-info").toggle();
+		$(".voter-info").show();
 	} else if (vote === "under18") { 
 		$(".ineligible").show();
-	} else {(vote === "IDK") 
+	} else { 
 		$(".ineligible").show();
 	}
 	});
