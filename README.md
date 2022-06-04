@@ -2,7 +2,7 @@
 
 #### By _**Liam Campbell_
 
-#### _{Brief description of application}_
+#### _This site allows the user to choose whether they are eligible to vote, by indicating they are over 18._
 
 ![A cartoon image of people voting](img/vote.jpeg)
 
@@ -16,21 +16,19 @@
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_This site allows the user to choose wether they are eligible to vote by _
 
 ## Setup/Installation Requirements
 
-* _Clone the git repository github.com/lcmpbll/voter.git to your desktop_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone the git repository github.com/lcmpbll/voter.git to your desktop._
+* _Navigate to the top level of the directory._
+* _Open index.html in your browser._
 
 
 
 ## Known Bugs
 
-* NA
+* _When the user makes a second selection that results in a different prompt from the first both results are shown._
 
 ## License
 
