@@ -1,6 +1,6 @@
 # _Voter_
 
-#### By _**Liam Campbell_
+#### By _Liam Campbell_
 
 #### _This site allows the user to choose whether they are eligible to vote, by indicating they are over 18._
 
