@@ -1,22 +1,21 @@
 $(document).ready(function() {
-	$("form-id#voter").submit(function() {
-	event.preventDefault
-	
-	const vote = $("#voter").val()
-	
-	
-	if (vote === "over18") {
-		$(".voter-info").show();
-	} else if (vote === "under18") { 
-		$(".ineligible").show();
-	} else { 
-		$(".ineligible").show();
-	}
+  $("#formOne").submit(function(event) {
+		event.preventDefault();
+		const vote = parseInt($("#voter").val());
+		
+		if (vote < 2) {
+			$(".voter-info").show();
+		} else {
+			$(".ineligible").show();
+		}
 	});
 });
+	
+		
 
-
-
+		
+	
+	
 
 
 

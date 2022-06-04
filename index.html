@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html "en-US">
+<html lang="en-US">
 <head>
 	<title>Voter info</title>	
 	<script src="js/jquery-3.6.0.js"></script>
@@ -13,12 +13,16 @@
 			<h1>Voter information</h1>
 		</div>
 		<h2>Will you be 18 or older and eligible to vote in the next election?</h2>
-		<select class="form-control" id="voter">
-			<option></option>
-			<option value="over18">Over 18</option>
-			<option value="under18">Not over 18</option>
-			<option value="IDK">I am unsure</option>
-		</select>
+		<form id="formOne">
+			<select class="form-control" id="voter">
+				<option value="0"></option>
+				<option value="1">Over 18</option>
+				<option value="2">Not over 18</option>
+				<option value="3">I am unsure</option>
+			</select>
+			<button type="submit" class="btn">Enter</button>
+		</form>
+		
 		<div class="voter-info">
 			<p>Here's how to register to <a href="https://www.vote.org/register-to-vote/">vote</a></p>
 			<p> and follow this <a href="https://www.vote411.org/?gclid">link</a> to find your nearest polling site</p>
