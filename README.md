@@ -16,7 +16,7 @@
 
 ## Description
 
-_This site allows the user to choose wether they are eligible to vote by _
+_This site allows the user to choose wether they are eligible to vote by selecting whether they are over 18, and then directs them to register to vote, voulenteer at a local polling station, or find out if they are eligible by going to the Oregon Secretary of State's website to find out. _
 
 ## Setup/Installation Requirements
 
@@ -28,10 +28,10 @@ _This site allows the user to choose wether they are eligible to vote by _
 
 ## Known Bugs
 
-* _When the user makes a second selection that results in a different prompt from the first both results are shown._
+* NA
 
 ## License
 
 _Feel free to reach out via [Github](github.com.lcmpbll) to provide feedback on this site or to view my other projects._
 
-[Copyright](LICENSE) (c) _date_ _author name(s)_
+[Copyright](LICENSE) (c) _06/20/2022_ _Liam Campbell(s)_
