@@ -5,8 +5,10 @@ $(document).ready(function() {
 		
 		if (vote < 2) {
 			$(".voter-info").show();
-		} else {
+			$(".ineligible").hide();
+		} else if ( vote >= 2) {
 			$(".ineligible").show();
+			$(".voter-info").hide();
 		}
 	});
 });
