@@ -4,3 +4,15 @@
 .ineligible{
 	display: none;
 }
+.jumbotron {
+	background-image: url(img/flag.jpeg);
+	background-color: red;
+	text-align: center;
+}
+body {
+	background-color: rgb(8, 8, 157);
+}
+body 
+h2, p {
+	color: white;
+}
