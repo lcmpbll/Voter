@@ -16,7 +16,7 @@
 
 ## Description
 
-_This site allows the user to choose wether they are eligible to vote by selecting whether they are over 18, and then directs them to register to vote, voulenteer at a local polling station, or find out if they are eligible by going to the Oregon Secretary of State's website to find out. _
+_This site allows the user to choose wether they are eligible to vote by selecting whether they are over 18, and then directs them to register to vote, voulenteer at a local polling station, or find out if they are eligible by going to the Oregon Secretary of State's website to find out._
 
 ## Setup/Installation Requirements
 
@@ -28,7 +28,7 @@ _This site allows the user to choose wether they are eligible to vote by selecti
 
 ## Known Bugs
 
-* NA
+* Background Image does not appear in the jumbotron area.
 
 ## License
 
